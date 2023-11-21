@@ -1,0 +1,16 @@
+.btn {
+    margin-left: 12px;
+}
+
+.listItems {
+    padding: 12px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+    transition: 0.3s;
+
+}
+
+.listItems:hover{
+    background-color: aliceblue;
+    border-radius: 6px;
+}
